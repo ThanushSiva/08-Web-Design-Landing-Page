@@ -6,6 +6,7 @@
 
 -   Usage of background svg.
 -   Took 2 hours to complete project.
+-   Responsive with al devices.
 
 ---
 
